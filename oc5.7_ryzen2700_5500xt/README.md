@@ -1,3 +1,5 @@
+** PARTS LIST
+
 - OPENCORE 0.5.7
 - AMD Ryzen 2700
 - MSI X570-A PRO
