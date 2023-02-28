@@ -6,3 +6,4 @@
 - YESTON RX6600 8G
 - KIOXIA RC10 1T
 
+![screenshot](./ScreenShot.png)
