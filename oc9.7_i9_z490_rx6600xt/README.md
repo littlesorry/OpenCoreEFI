@@ -1,0 +1,9 @@
+# PARTS LIST
+
+- OPENCORE 0.9.7
+- INTEL I9 10850k
+- MSI Z490M EDGE WIFI
+- DATALAND RX6600xt 8G
+- KIOXIA RC10 1T
+
+![screenshot](./ScreenShot.png)
